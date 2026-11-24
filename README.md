@@ -32,5 +32,5 @@ Open `https://colab.research.google.com/github/Aiorwtlky/LMC-Metastasis-Predicti
 git clone https://github.com/Aiorwtlky/LMC-Metastasis-Prediction.git
 cd LMC-Metastasis-Prediction
 pip install -r requirements.txt
-jupyter notebook LMC_Metastasis_Survival_EN.ipynb
+jupyter notebook LMC_Metastasis_Survival.ipynb
 ```
