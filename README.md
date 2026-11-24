@@ -1,6 +1,6 @@
 # LMC Metastasis Prediction and Survival Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aiorwtlky/LMC-Metastasis-Prediction/blob/main/LMC_Metastasis_Survival_EN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aiorwtlky/LMC-Metastasis-Prediction/blob/main/LMC_Metastasis_Survival.ipynb)
 
 Lymph node metastasis classification and overall survival analysis using latent methylation component (LMC) deconvolution proportions across six TCGA cohorts (`BLCA`, `BRCA`, `COAD`, `HNSC`, `LUAD`, `STAD`) under `Individual Cancer LMC` (`cancer-specific_LMC`) and `Pan-Cancer LMC` (`cross-cancer_LMC`) models.
 
@@ -8,8 +8,7 @@ Lymph node metastasis classification and overall survival analysis using latent 
 
 ```text
 LMC-Metastasis-Prediction/
-├── LMC_Metastasis_Survival_EN.ipynb
-├── LMC_Metastasis_Survival_ZH.ipynb
+├── LMC_Metastasis_Survival.ipynb
 ├── requirements.txt
 └── data/
     ├── sample_list.tsv
@@ -26,7 +25,7 @@ LMC-Metastasis-Prediction/
 ## Usage
 
 ### Google Colab
-Open `https://colab.research.google.com/github/Aiorwtlky/LMC-Metastasis-Prediction/blob/main/LMC_Metastasis_Survival_EN.ipynb` and select **Runtime → Run all**.
+Open `https://colab.research.google.com/github/Aiorwtlky/LMC-Metastasis-Prediction/blob/main/LMC_Metastasis_Survival.ipynb` and select **Runtime → Run all**.
 
 ### Local
 ```bash
